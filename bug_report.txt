@@ -1,0 +1,5 @@
+Короткое описание (Bug Summary):
+Серьезность (Severity):
+Шаги к воспроизведению (Steps to reproduce):
+Результат (Actual Result):
+Ожидаемый результат (Expected Result):
